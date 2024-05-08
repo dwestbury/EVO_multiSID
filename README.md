@@ -31,6 +31,10 @@ https://cadaver.github.io/rants/music.html
 ## Considerations:
 * This is an early work in progress, and I'm sure there are many bugs and opportunities for improvements to be made.
 * You will experience instability if you're using a cartridge like RetroReplay and tryin to use SIDs addressing in the $DE00-$DFE0 range.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
   
     
 ## Grid Navigation & SID Selection Page  
