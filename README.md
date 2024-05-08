@@ -1,8 +1,8 @@
 # MultiSID Tester - A simple utility to test SIDs listening on different addresses
 
-By: **Darrell Westbury** (DWestbury_505@msn.com)
-Version: 0.9 (Beta)
-Preview Release: May 8th 2024 
+By: **Darrell Westbury**  
+Version: 0.9 (Beta)  
+Preview Release: May 8th 2024   
 
 ## Background:
 This is the first Assembly Language code I've written since 1992.
@@ -14,7 +14,7 @@ I've added an info page to explain the controls, although they should me mostly 
 
 ## Credits:
 When I was looking for a Music Player routine that I could modify easily to support multiple SID addresses,
-I was thrilled to find some code by **Cadaver** (loorni@gmail.com) that just what the Doctor ordered.
+I was thrilled to find some code by **Cadaver** that just what the Doctor ordered.
 https://cadaver.github.io/rants/music.html
 
 
