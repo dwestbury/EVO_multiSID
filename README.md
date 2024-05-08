@@ -31,4 +31,5 @@ https://cadaver.github.io/rants/music.html
 * You will experience instability if you're using a cartridge like RetroReplay and tryin to use SIDs addressing in the $DE00-$DFE0 range.
 * I welcome suggestions and feedback, so please feel free to reach out to me at: DWestbury_505@msn.com
 
-![Example Image](images/Grid%20Navigation%20Screen.pngGrid Navigation Screen.png "Grid Navigation and SID Selection Page")
+![Example Image](images/Grid%20Navigation%20Screen.png "Grid Navigation and SID Selection Page")
+
