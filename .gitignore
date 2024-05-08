@@ -1,7 +1,9 @@
 # git ignores
 *~
 .vscode
-build
 .DS_Store
 project-config.json
-
+build/*.ninja*
+build/*.dbg
+build/*.info
+build/*.sym
