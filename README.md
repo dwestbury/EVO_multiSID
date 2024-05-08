@@ -1,4 +1,5 @@
-# MultiSID Tester - A simple utility to test SIDs listening on different addresses
+# MultiSID Tester  
+## A simple utility to test SIDs listening on different addresses  
 
 By: **Darrell Westbury**  
 Version: 0.9 (Beta)  
