@@ -6,12 +6,14 @@ Version: 0.9 (Beta)
 Preview Release: May 8th 2024   
 
 ## Background:
-This is the first Assembly Language code I've written since 1992.
-It's been a blast rolling the sleeves up again, but I'm 'clearly' a bit rusty.
+This is the first Assembly Language code I've written since 1992.  
+It's been a blast rolling the sleeves up again, but I'm 'clearly' a bit rusty (cough)  
 
 ## Usage:
-I'm hoping that the simple Grid-based navigation system is easy, intuitive and straight forward to use.
-I've added an info page to explain the controls, although they should me mostly self-explanatory
+* This tool is intended for EVO64 users, to enable them to test which address(es) their SIDs are responding on.
+* However, there's nothing preventing you from using this tool with other Multi-SID enabled C64 system.
+* I'm hoping that the simple Grid-based navigation system makes it easy, intuitive and straight forward to use this tool.
+* There's an info page available to explain the controls, although they should me mostly self-explanatory.  
 
 ## Credits:
 When I was looking for a Music Player routine that I could modify easily to support multiple SID addresses,
