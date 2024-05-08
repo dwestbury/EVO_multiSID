@@ -3,3 +3,4 @@
 .vscode
 build
 .DS_Store
+project-config.json
