@@ -1,5 +1,5 @@
 # git ignores
 *~
+.vscode
 build
 .DS_Store
-
