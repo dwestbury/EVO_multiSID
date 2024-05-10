@@ -132,10 +132,10 @@ set_sid_addr:   lda sid_address_lo,x
                 ldy #$00
 clear_reg_loop: sta (temp3),y
                 iny
-                cpy #$28
+                cpy #$20
                 bne clear_reg_loop
                 inx
-                cpx #$20                //Only clear the first 32 SIDs to avoid conflict with Retro Replay cart.
+                cpx #$30                //Only clear the first 32 SIDs to avoid conflict with Retro Replay cart.
                 bne set_sid_addr        //Loop until all SID registers are cleared
                 ldx sid_address_index   //Load the Multi-SID address index
                 lda sid_address_lo,x    //Set the specific SID address to be used

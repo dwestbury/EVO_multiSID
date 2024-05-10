@@ -33,9 +33,9 @@ Considerations:
 > I welcome suggestions and feedback, so please feel free to reach out to me at: DWestbury_505@msn.com
 */
 
-#import "music_player.asm"     // $1000 Music Player routine by Cadaver
-#import "sprite_data.asm"      // Sprite data for the Grid Block and Status Bar
-#import "screen_char_data.asm" // Character data for the Grid Block and Info Page
+#import "music_player.asm"     // $1000 - Music Player routine by Cadaver
+#import "sprite_data.asm"      // $2000 - Sprite data for the Grid Block and Status Bar
+#import "screen_char_data.asm" // $4000 - Character data for the Grid Block and Info Page
 
 
 .pc = $0801 "Basic SYS 2064"   // BASIC Header with default start address
